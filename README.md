@@ -1,5 +1,4 @@
 # Bookmark Manager
-## Phase 1
 1. Store a resource as links hardcoded in component render
 1. Store a resource in state
 1. Store multiple resources in state
@@ -20,7 +19,5 @@
 1. Refactor "add new subject" functionality into a separate component.
 1. Delete a Subject
 1. Delete a Resource
-
-
 
 ### This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
